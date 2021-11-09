@@ -127,6 +127,12 @@ footer p {
     outline-offset: -10px;
 }
 
+@media screen and (max-width: 620px) {
+    .gallery-image {
+       width: 50%;
+    }
+}
+
 /* ABOUT AREA */
 
 .about-container {
